@@ -4,11 +4,11 @@
     --background-topicos: #1e1e1e;
     --barra-interativa: #f0f0f0;
     --branco: #fff;
-    --btn-ativo: #361717;
-    --borda: #151515;
+    --btn-ativo: #ff0000;
+    --borda: #ff0000;
     --black: #000;
     --fonte: "Anta", sans-serif;
-    --cor-txt: #FF0000;
+    --cor-txt: #ececec;
 }
 
 body{
@@ -43,7 +43,7 @@ body{
     display: flex;
     font-family: var(--fonte);
     background-color: var(--background-topicos);
-    color: var(--branco);
+    color: var(--black);
     justify-content: center;
     padding: 1em;
     font-size: 18px;
